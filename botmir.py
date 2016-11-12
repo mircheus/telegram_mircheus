@@ -5,3 +5,4 @@ import config
 
 class Bot:
     a = 10
+    b = 12
