@@ -1,6 +1,6 @@
 import telebot
 import config
-
+import config
 # Настраиваем соединение с нашим ботом
 
 bot = telebot.TeleBot(config.token)
